@@ -1,5 +1,5 @@
 multiprocess:
-	gcc -o multiprocess multiprocess.c
+	gcc -o multiprocess.out multiprocess.c
 
 clean:
-	rm multiprocess
+	rm multiprocess.out
